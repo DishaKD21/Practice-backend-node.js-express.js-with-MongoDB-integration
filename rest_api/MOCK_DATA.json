@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "first_name": "Pattin",
+        "last_name": "Bispham",
+        "email": "pbispham0@washington.edu",
+        "gender": "Male",
+        "job_title": "Environmental Specialist"
+    },
+    {
+        "id": 2,
+        "first_name": "Mylo",
+        "last_name": "Molines",
+        "email": "mmolines1@amazon.co.jp",
+        "gender": "Male",
+        "job_title": "Software Consultant"
+    },
+    {
+        "id": 3,
+        "first_name": "Colver",
+        "last_name": "Inglesfield",
+        "email": "cinglesfield2@wired.com",
+        "gender": "Male",
+        "job_title": "Analog Circuit Design manager"
+    },
+    {
+        "id": 4,
+        "first_name": "Kyrstin",
+        "last_name": "Premble",
+        "email": "kpremble3@ebay.co.uk",
+        "gender": "Female",
+        "job_title": "Compensation Analyst"
+    },
+    {
+        "id": 5,
+        "first_name": "Mattie",
+        "last_name": "Eller",
+        "email": "meller4@facebook.com",
+        "gender": "Female",
+        "job_title": "Quality Engineer"
+    },
+    {
+        "id": 6,
+        "first_name": "Birdie",
+        "last_name": "Konzelmann",
+        "email": "bkonzelmann5@va.gov",
+        "gender": "Female",
+        "job_title": "Associate Professor"
+    },
+    {
+        "id": 7,
+        "first_name": "Seline",
+        "last_name": "Comizzoli",
+        "email": "scomizzoli6@comcast.net",
+        "gender": "Female",
+        "job_title": "Occupational Therapist"
+    },
+    {
+        "id": 8,
+        "first_name": "Pauly",
+        "last_name": "Maylott",
+        "email": "pmaylott7@friendfeed.com",
+        "gender": "Male",
+        "job_title": "Marketing Assistant"
+    },
+    {
+        "id": 9,
+        "first_name": "Madalena",
+        "last_name": "Lyver",
+        "email": "mlyver8@w3.org",
+        "gender": "Female",
+        "job_title": "Marketing Assistant"
+    },
+    {
+        "id": 10,
+        "first_name": "Carolynn",
+        "last_name": "Rouf",
+        "email": "crouf9@goo.ne.jp",
+        "gender": "Female",
+        "job_title": "Software Engineer I"
+    },
+    {
+        "id": 11,
+        "first_name": "Dolores",
+        "last_name": "O'Hannay",
+        "email": "dohannaya@csmonitor.com",
+        "gender": "Female",
+        "job_title": "Web Designer IV"
+    },
+    {
+        "id": 12,
+        "first_name": "Merle",
+        "last_name": "Fairfoull",
+        "email": "mfairfoullb@nba.com",
+        "gender": "Female",
+        "job_title": "VP Sales"
+    },
+    {
+        "id": 13,
+        "first_name": "Concettina",
+        "last_name": "Raymont",
+        "email": "craymontc@amazon.de",
+        "gender": "Female",
+        "job_title": "Engineer I"
+    },
+    {
+        "id": 14,
+        "first_name": "Cletus",
+        "last_name": "Setchell",
+        "email": "csetchelld@fc2.com",
+        "gender": "Non-binary",
+        "job_title": "Statistician I"
+    },
+    {
+        "id": 15,
+        "first_name": "Urbano",
+        "last_name": "Phillott",
+        "email": "uphillotte@zdnet.com",
+        "gender": "Male",
+        "job_title": "Geological Engineer"
+    },
+    {
+        "id": 16,
+        "first_name": "Theodoric",
+        "last_name": "Kulicke",
+        "email": "tkulickef@mlb.com",
+        "gender": "Male",
+        "job_title": "Marketing Assistant"
+    },
+    {
+        "id": 17,
+        "first_name": "Loralee",
+        "last_name": "Fentem",
+        "email": "lfentemg@go.com",
+        "gender": "Female",
+        "job_title": "Administrative Officer"
+    },
+    {
+        "id": 18,
+        "first_name": "Nelli",
+        "last_name": "Huey",
+        "email": "nhueyh@cbc.ca",
+        "gender": "Bigender",
+        "job_title": "Structural Engineer"
+    },
+    {
+        "id": 19,
+        "first_name": "Cornie",
+        "last_name": "Willey",
+        "email": "cwilleyi@weebly.com",
+        "gender": "Female",
+        "job_title": "Business Systems Development Analyst"
+    },
+    {
+        "id": 20,
+        "first_name": "Kelci",
+        "last_name": "Machan",
+        "email": "kmachanj@msn.com",
+        "gender": "Female",
+        "job_title": "GIS Technical Architect"
+    },
+    {
+        "id": 21,
+        "first_name": "Jackie",
+        "last_name": "Waycot",
+        "email": "jwaycotk@noaa.gov",
+        "gender": "Male",
+        "job_title": "Accounting Assistant III"
+    },
+    {
+        "id": 22,
+        "first_name": "Otho",
+        "last_name": "Heddan",
+        "email": "oheddanl@salon.com",
+        "gender": "Male",
+        "job_title": "Information Systems Manager"
+    },
+    {
+        "id": 23,
+        "first_name": "Renaldo",
+        "last_name": "Franzke",
+        "email": "rfranzkem@sohu.com",
+        "gender": "Male",
+        "job_title": "Information Systems Manager"
+    },
+    {
+        "id": 24,
+        "first_name": "Kendrick",
+        "last_name": "Sayton",
+        "email": "ksaytonn@apple.com",
+        "gender": "Agender",
+        "job_title": "Senior Financial Analyst"
+    },
+    {
+        "id": 25,
+        "first_name": "Dorene",
+        "last_name": "Syalvester",
+        "email": "dsyalvestero@hibu.com",
+        "gender": "Female",
+        "job_title": "Pharmacist"
+    },
+    {
+        "id": 26,
+        "first_name": "Prentice",
+        "last_name": "Richten",
+        "email": "prichtenp@naver.com",
+        "gender": "Genderfluid",
+        "job_title": "Web Designer II"
+    },
+    {
+        "id": 27,
+        "first_name": "Zora",
+        "last_name": "Zellick",
+        "email": "zzellickq@angelfire.com",
+        "gender": "Female",
+        "job_title": "Information Systems Manager"
+    },
+    {
+        "id": 28,
+        "first_name": "Anissa",
+        "last_name": "Cecil",
+        "email": "acecilr@aol.com",
+        "gender": "Female",
+        "job_title": "Civil Engineer"
+    },
+    {
+        "id": 29,
+        "first_name": "Mariette",
+        "last_name": "Schruur",
+        "email": "mschruurs@alexa.com",
+        "gender": "Female",
+        "job_title": "Staff Scientist"
+    },
+    {
+        "id": 30,
+        "first_name": "Rodolphe",
+        "last_name": "Glede",
+        "email": "rgledet@dot.gov",
+        "gender": "Male",
+        "job_title": "Payment Adjustment Coordinator"
+    }
+]
